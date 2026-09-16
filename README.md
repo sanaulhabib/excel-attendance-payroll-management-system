@@ -60,7 +60,7 @@ Through this project, I gained hands on experience in:
 
 ## ▶️ How to Explore
 
-1. Download 
+1. Download [automatic_payroll_management_system.xlsx](https://github.com/sanaulhabib/excel-attendance-payroll-management-system/raw/main/02-project-file/automatic_payroll_management_system.xlsx)
 2. Open it in Excel 
 3. Go to the dashboard sheet
 4. Use the slicers (Gender, Category, Status, Age Group, Channel, Month) to filter and explore
